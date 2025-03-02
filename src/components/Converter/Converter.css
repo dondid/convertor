@@ -1,0 +1,44 @@
+.converter-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.input-group input,
+.input-group select {
+    text-indent: 5px;
+    width: 100%;
+    padding: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.select-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+/*.result {*/
+/*    padding: 20px;*/
+/*    background-color: #f8f9fa;*/
+/*    border-radius: 4px;*/
+/*    text-align: center;*/
+/*    font-size: 18px;*/
+/*    font-weight: 500;*/
+/*}*/
