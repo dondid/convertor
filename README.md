@@ -15,5 +15,5 @@ https://github.com/user-attachments/assets/1df5923a-625a-4bfd-862d-27c9444fc83f
 # Commands
 - starting:
   ✅ npm run dev
-- stop
+- stop:
   ✅ ctrl + c
